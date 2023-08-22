@@ -5,7 +5,7 @@ import "./Loader.css"
 function Loader() {
   return (
     <div>
-      <div class="loader"></div>
+    <div class="lds-dual-ring"></div>
     </div>
   )
 }
